@@ -2,7 +2,7 @@
 
 ## Instalación de Goffice
 
-Ver [reportes de actividades](docs/Report.md "Ir a reporte de actividades")
+Ver [reporte técnico de actividades](docs/Report.md "Ir a reporte técnico de actividades")
 
 ## Instalación del proyecto
 
